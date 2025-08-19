@@ -8,4 +8,4 @@ you can find the 8-ch model from:
     -8ch: https://drive.google.com/file/d/1MURLIf8OwfhkqonuqDNTMC9NTjLKIKH5/view?usp=sharing
 
 2. 百度网盘:
-    comming soon...
+    -8ch: link: https://pan.baidu.com/s/1fGGjcsRHN5Zll7cC9BFUxw?pwd=xdny code: xdny

@@ -1,0 +1,12 @@
+numpy>=1.26.4
+scipy>=1.13.1
+mat73>=0.65
+mne>=1.8.0
+pooch>=1.8.2
+matplotlib>=3.9.4
+scikit-learn>=1.6.1
+pandas>=2.3.0
+joblib>=1.5.1
+torch>=2.3.1+cu118
+timm>=1.0.15
+skorch>=1.1.0

@@ -25,9 +25,9 @@ https://bcmi.sjtu.edu.cn/home/seed/seed.html
 
 ### EmoAdapt Training:
 
-      demos/EmoAdapt_train.py
+      EmoAdapt_train.py
 
 ### EmoAdapt Predict:
 
-      demos/EmoAdapt_predict.py
+      EmoAdapt_predict.py
 
